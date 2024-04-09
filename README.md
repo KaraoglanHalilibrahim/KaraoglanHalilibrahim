@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karaoglanhalilibrahim&show_icons=true&locale=en" alt="karaoglanhalilibrahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglanhalilibrahim&" alt="karaoglanhalilibrahim" /></p>
+
+
+![snake gif](https://github.com/KAraoglanHalilibrahim/KaraoglanHalilibrahim/blob/output/github-contribution-grid-snake.gif)
