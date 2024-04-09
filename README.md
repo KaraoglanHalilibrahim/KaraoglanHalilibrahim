@@ -43,4 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglanhalilibrahim&" alt="karaoglanhalilibrahim" /></p>
 
 
-![snake gif](https://github.com/KAraoglanHalilibrahim/KaraoglanHalilibrahim/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/blob/output/github-contribution-grid-snake.gif)
