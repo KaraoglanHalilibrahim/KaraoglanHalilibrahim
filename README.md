@@ -2,6 +2,14 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D03AQGgFcRYSdayXg/profile-displayphoto-shrink_200_200/0/1705255719395?e=1718236800&v=beta&t=iXCcCky5iMvcsg9EmuJJUxB3nNS-USfBEutoRknGldI)
 
 <h1 align="center">Hi 👋, I'm Halilibrahim Karaoğlan</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <h3 align="center">A passionate Computer Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaoglanhalilibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="karaoglanhalilibrahim" /> </p>
@@ -44,8 +52,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglanhalilibrahim&" alt="karaoglanhalilibrahim" /></p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake.svg">
-</picture>
