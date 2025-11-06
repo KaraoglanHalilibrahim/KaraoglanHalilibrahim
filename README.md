@@ -1,6 +1,8 @@
+<div align="center">
 
+# 👋 Merhaba, Ben Halilibrahim Karaoğlan
 
-<h1 align="center">Hi 👋, I'm Halilibrahim Karaoğlan</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Computer+Engineer+from+Turkey;Game+Developer+%7C+Unity+Expert;Passionate+About+Creating+Games;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake-dark.svg">
@@ -8,46 +10,161 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaraoglanHalilibrahim/KaraoglanHalilibrahim/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
 
-<h3 align="center">A passionate Computer Engineer from Turkey</h3>
+<img src="https://komarev.com/ghpvc/?username=karaoglanhalilibrahim&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karaoglanhalilibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="karaoglanhalilibrahim" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karaoglanhalilibrahim" alt="karaoglanhalilibrahim" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/hllibrhmkrogln" target="blank"><img src="https://img.shields.io/twitter/follow/hllibrhmkrogln?logo=twitter&style=for-the-badge" alt="hllibrhmkrogln" /></a> </p>
+## 🚀 About Me
 
-- 🕹️ I am currently working on a new computer game [My New Computer Game (In Development)](https://www.linkedin.com/posts/halilibrahimkaraoglan_unity-longdrive-thelongdrive-activity-7177426934975315968-nku-?utm_source=share&utm_medium=member_desktop)
+```typescript
+const halilibrahim = {
+    location: "Adıyaman, Turkey 🇹🇷",
+    role: "Computer Engineer & Game Developer",
+    currentFocus: "Building immersive gaming experiences",
+    learning: ["Advanced Unity Techniques", "Game Optimization", "Unreal Engine"],
+    hobbies: ["🎮 Game Development", "✍️ Technical Writing", "🎨 UI/UX Design"],
+    funFact: "I turn coffee into code and code into games! ☕"
+};
+```
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/](https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/)
+<div align="center">
 
-- 📝 I regularly write articles on [https://medium.com/@HalilibrahimKaraoglan](https://medium.com/@HalilibrahimKaraoglan)
+## 🎮 Current Project
 
-- 📫 How to reach me **halilibrahimkaraoglan92@gmail.com**
+[![Game Development](https://img.shields.io/badge/🕹️-New_Computer_Game-FF6B6B?style=for-the-badge&labelColor=1a1a2e)](https://www.linkedin.com/posts/halilibrahimkaraoglan_unity-longdrive-thelongdrive-activity-7177426934975315968-nku-)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/](https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/)
+*Building an exciting new game with Unity - Stay tuned for updates!*
 
-### Blogs posts
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database & Backend
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karaoglanhalilibrahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglanhalilibrahim&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaoglanhalilibrahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karaoglanhalilibrahim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@HalilibrahimKaraoglan)
+
+</div>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hllibrhmkrogln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hllibrhmkrogln" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/halilibrahimkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halilibrahimkaraoglan" height="30" width="40" /></a>
-<a href="https://fb.com/KaraoglanHalilibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KaraoglanHalilibrahim" height="30" width="40" /></a>
-<a href="https://instagram.com/ka_ra_og_lan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka_ra_og_lan" height="30" width="40" /></a>
-<a href="https://medium.com/@halilibrahimkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@halilibrahimkaraoglan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/halilibrahimkaraoglan8994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halilibrahimkaraoglan8994" height="30" width="40" /></a>
-</p>
+*📚 Check out my technical articles on [Medium](https://medium.com/@HalilibrahimKaraoglan)*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karaoglanhalilibrahim&show_icons=true&locale=en&layout=compact" alt="karaoglanhalilibrahim" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karaoglanhalilibrahim&show_icons=true&locale=en" alt="karaoglanhalilibrahim" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglanhalilibrahim&" alt="karaoglanhalilibrahim" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halilibrahimkaraoglan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hllibrhmkrogln)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ka_ra_og_lan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/halilibrahimkaraoglan8994)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/KaraoglanHalilibrahim)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@halilibrahimkaraoglan)
 
+</div>
 
+---
+
+## 💼 Work Experience & Portfolio
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Game Development] --> B[Unity Projects]
+    A --> C[Unreal Engine]
+    D[Web Development] --> E[Full Stack]
+    D --> F[Database Design]
+    B --> G[Published Games]
+    E --> H[Live Projects]
+```
+
+📂 **Portfolio:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/)
+
+📧 **Email:** halilibrahimkaraoglan92@gmail.com
+
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+- [x] Start new game development project
+- [ ] Launch first commercial game
+- [ ] Contribute to open source game engines
+- [ ] Write 50+ technical articles
+- [ ] Master Unreal Engine 5
+- [ ] Build game development community
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😄 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem-karaoglanhalilibrahim.vercel.app/api/spotify)](https://open.spotify.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+**⭐️ From [KaraoglanHalilibrahim](https://github.com/KaraoglanHalilibrahim)**
+
+</div>
