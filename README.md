@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Halilibrahim Karaoğlan
+# 👋 Hello, I'am Halilibrahim Karaoğlan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Computer+Engineer+from+Turkey;Game+Developer+%7C+Unity+Expert;Passionate+About+Creating+Games;Always+Learning+New+Technologies" alt="Typing SVG" />
 
