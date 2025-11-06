@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@HalilibrahimKaraoglan](https://medium.com/@HalilibrahimKaraoglan)
 
-- 📫 How to reach me **halilibrahimkaraoglan92@gmaial.com**
+- 📫 How to reach me **halilibrahimkaraoglan92@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/](https://www.linkedin.com/in/halilibrahim-karao%C4%9Flan-398234214/)
 
