@@ -30,10 +30,10 @@ const halilibrahim = {
     funFact: "I turn coffee into code and code into games! ☕"
 };
 ```
-
+```
 <div align="center">
 
-```## 🎮 Current Project
+## 🎮 Current Project
 
 [![Game Development](https://img.shields.io/badge/🕹️-New_Computer_Game-FF6B6B?style=for-the-badge&labelColor=1a1a2e)](https://www.linkedin.com/posts/halilibrahimkaraoglan_unity-longdrive-thelongdrive-activity-7177426934975315968-nku-)
 
