@@ -30,7 +30,7 @@ const halilibrahim = {
     funFact: "I turn coffee into code and code into games! ☕"
 };
 ```
-```
+<!--
 <div align="center">
 
 ## 🎮 Current Project
@@ -40,7 +40,7 @@ const halilibrahim = {
 *Building an exciting new game with Unity - Stay tuned for updates!*
 
 </div>
-```
+-->
 ---
 
 ## 🛠️ Tech Stack & Tools
